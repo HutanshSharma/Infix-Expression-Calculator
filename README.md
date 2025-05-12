@@ -25,6 +25,8 @@ Stack-based Evaluation Algorithm – For parsing and calculating expressions
 
 🚀 Usage
 You can enter any valid mathematical expression using the GUI, including:
+
 -3 + 4 * 2 / (1 - 5)^2
 (2 + 3) * (4 - 2)^3
+
 The calculator will evaluate and display the result instantly using the internal expression engine.
