@@ -22,3 +22,6 @@ Python – Core logic and scripting
 PyQt5/PyQt6 – GUI design and event handling
 
 Stack-based Evaluation Algorithm – For parsing and calculating expressions
+
+Here's a quick look at the user interface of the calculator: ![image](https://github.com/user-attachments/assets/0c4d6626-c54f-4625-9c30-0698a38c7b52)
+
