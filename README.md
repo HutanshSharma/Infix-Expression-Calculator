@@ -23,5 +23,8 @@ PyQt5/PyQt6 – GUI design and event handling
 
 Stack-based Evaluation Algorithm – For parsing and calculating expressions
 
-Here's a quick look at the user interface of the calculator: ![image](https://github.com/user-attachments/assets/0c4d6626-c54f-4625-9c30-0698a38c7b52)
-
+🚀 Usage
+You can enter any valid mathematical expression using the GUI, including:
+-3 + 4 * 2 / (1 - 5)^2
+(2 + 3) * (4 - 2)^3
+The calculator will evaluate and display the result instantly using the internal expression engine.
