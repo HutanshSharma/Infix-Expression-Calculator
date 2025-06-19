@@ -21,11 +21,11 @@ The core of the calculator uses a custom stack-based expression parser that impl
 ---
 
 ## Technologies Used
-####Python – Core logic and scripting
+#### Python – Core logic and scripting
 
-####PyQt5/PyQt6 – GUI design and event handling
+#### PyQt5/PyQt6 – GUI design and event handling
 
-####Stack-based Evaluation Algorithm – For parsing and calculating expressions
+#### Stack-based Evaluation Algorithm – For parsing and calculating expressions
 
 ---
 
