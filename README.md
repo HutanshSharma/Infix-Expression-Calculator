@@ -39,6 +39,19 @@ The calculator will evaluate and display the result instantly using the internal
 
 ---
 
-## Running the app
+## How to Run
+1. Clone the repository:
 ```bash
-python UI.py
+  git clone https://github.com/your-username/weather-app.git
+  cd weather-app
+```
+
+2. Install dependencies:
+```bash
+  pip install PyQt5 requests
+```
+
+3. Run the app:
+```bash
+ python UI.py
+```
